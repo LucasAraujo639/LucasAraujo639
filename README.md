@@ -13,8 +13,4 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la tecnologia
 ## 🌟 Mis objetivos
 - Poder seguir aprendiendo dinamicamente junto con los temas de la universidad
 
----
-
-## 🎯 Próximos pasos
-Continuar con mis estudios en la facultad, fortalecer mis habilidades técnicas >
 
