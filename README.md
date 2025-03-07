@@ -11,7 +11,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la tecnologia
 - **Otros:** [Docker, Git, Github.]
 
 ## 🌟 Mis objetivos
-- LLegar a 5to año para tener una mejor base en temas como base de datos, concu>
+- Poder seguir aprendiendo dinamicamente junto con los temas de la universidad
 
 ---
 
