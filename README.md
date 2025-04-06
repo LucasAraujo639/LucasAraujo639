@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la tecnologia
 - Estudiante de ingenieria informatica de la UBA. Arrancando 4to Año.
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** [JavaScript, Python, Java.]
+- **Lenguajes:** [JavaScript, Python, Java, Rust, Go, SQL]
 - **Frontend:** [React, React Native, HTML, CSS, JS]
 - **Backend:** [Spring, Node.js]
 - **Bases de datos:** [MongoDB, PostreSQL]
