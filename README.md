@@ -1,5 +1,3 @@
-Bienvenido a mi perfil de GitHub. Soy un estudiante apasionado por la tecnologia
-
 ## 🚀 Sobre mí
 - Estudiante de ingenieria informatica de la UBA. Arrancando 4to Año.
 
