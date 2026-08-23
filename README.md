@@ -1,5 +1,5 @@
 ## 🚀 Sobre mí
-- Estudiante de ingenieria informatica de la UBA. Arrancando 4to Año.
+- Estudiante de ingenieria informatica de la UBA.
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:** [JavaScript, Python, Java, Rust, Go, SQL]
